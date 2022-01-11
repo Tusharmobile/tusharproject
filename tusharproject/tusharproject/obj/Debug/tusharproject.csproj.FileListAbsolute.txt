@@ -1,0 +1,8 @@
+D:\tusharproject\tusharproject\tusharproject\bin\Debug\tusharproject.exe.config
+D:\tusharproject\tusharproject\tusharproject\bin\Debug\tusharproject.exe
+D:\tusharproject\tusharproject\tusharproject\bin\Debug\tusharproject.pdb
+D:\tusharproject\tusharproject\tusharproject\obj\Debug\tusharproject.csproj.AssemblyReference.cache
+D:\tusharproject\tusharproject\tusharproject\obj\Debug\tusharproject.csproj.SuggestedBindingRedirects.cache
+D:\tusharproject\tusharproject\tusharproject\obj\Debug\tusharproject.csproj.CoreCompileInputs.cache
+D:\tusharproject\tusharproject\tusharproject\obj\Debug\tusharproject.exe
+D:\tusharproject\tusharproject\tusharproject\obj\Debug\tusharproject.pdb
